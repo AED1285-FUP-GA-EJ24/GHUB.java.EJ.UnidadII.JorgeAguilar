@@ -2,6 +2,7 @@ package miPrincipal;
 //Declaramos import
 import otrosProgramas.*; //Esta sentencia importa todas las clases 
                          //del paquete otrosProgramas
+import java.util.Scanner;
 public class Programa {
     public static void main (String[] args) {
         obtenerDatos();

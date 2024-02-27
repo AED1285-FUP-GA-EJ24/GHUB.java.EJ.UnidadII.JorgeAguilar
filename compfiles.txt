@@ -1,2 +1,6 @@
+./otrosProgramas/Programa2.java
 ./miPrincipal/Principal.java
+./miPrincipal/Programa.java
+./biblioteca/Manual.java
+./biblioteca/Libro.java
 ./miTest/AppTest.java
