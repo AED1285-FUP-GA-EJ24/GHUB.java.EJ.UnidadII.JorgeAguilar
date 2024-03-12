@@ -1,6 +1,12 @@
-./otrosProgramas/Programa2.java
-./miPrincipal/Principal.java
-./miPrincipal/Programa.java
+./distancia/Principal.java
+./distancia/Distancia.java
+./promedio/Pincipal.java
+./promedio/Promedio.java
 ./biblioteca/Manual.java
 ./biblioteca/Libro.java
+./otrosProgramas/Programa2.java
 ./miTest/AppTest.java
+./miPrincipal/Principal.java
+./miPrincipal/Programa.java
+./expresion/Principal.java
+./expresion/Expresion.java
