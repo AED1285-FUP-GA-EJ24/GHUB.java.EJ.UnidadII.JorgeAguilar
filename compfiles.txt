@@ -4,6 +4,8 @@
 ./expresion/Principal.java
 ./promedio/Promedio.java
 ./promedio/Principal.java
+./partido/Partido.java
+./partido/Principal.java
 ./distancia/Distancia.java
 ./distancia/Principal.java
 ./miTest/AppTest.java
