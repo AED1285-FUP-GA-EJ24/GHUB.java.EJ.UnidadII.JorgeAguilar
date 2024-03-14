@@ -6,20 +6,20 @@ public class Triangulo {
         //declaro objeto tipo Scanner
         Scanner entrada = new Scanner(System.in);
         //definir variable de salida
-        float per,sup;
+        double per,sup;
         //definir variable de entrada
-        float base,altura;
+        double base,altura;
         //definir variable auxiliar
-        float hip;
+        double hip;
 
         System.out.println("Proporciona base: ");
-        base = entrada.nextFloat();
+        base = entrada.nextDouble();
         System.out.println("Proporciona altura: ");
-        altura = entrada.nextFloat();
+        altura = entrada.nextDouble();
 
         sup = (base*altura)/2;
 
-        hip = (float)Math.sqrt((Math.pow(base, 2))+(float)(Math.pow(altura, 2)));
+        hip = Math.sqrt(Math.pow(base, 2)+Math.pow(altura, 2));
 
         per = base + altura + hip;
 
