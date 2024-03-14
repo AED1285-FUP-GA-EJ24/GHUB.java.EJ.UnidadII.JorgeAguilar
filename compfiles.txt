@@ -6,6 +6,8 @@
 ./promedio/Principal.java
 ./partido/Partido.java
 ./partido/Principal.java
+./triangulo/Triangulo.java
+./triangulo/Principal.java
 ./distancia/Distancia.java
 ./distancia/Principal.java
 ./miTest/AppTest.java
